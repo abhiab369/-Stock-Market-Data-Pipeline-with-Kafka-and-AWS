@@ -1,7 +1,5 @@
-# -Stock-Market-Data-Pipeline-with-Kafka-and-AWS
-
-
 # Stock Market Data Pipeline with Kafka and AWS
+
 
 Welcome to the Stock Market Data Pipeline project! 📈🚀
 
